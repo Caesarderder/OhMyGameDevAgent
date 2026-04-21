@@ -1,2 +1,2 @@
-# OhMySkill
-agent skills
+# OhMyGameDevAgent!
+GameDev agent skills
